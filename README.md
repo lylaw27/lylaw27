@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a blockchain with a Proof-of-stake consensus mechanism<br>💼 I’m looking for an internship or a fulltime job in the web3/FinTech industry<br>🌱 I’m currently learning more on Solidity, and just started out on Rust<br>💬 Ask me about my self-taught journey<br>⚡ Fun fact: I was originally a civil engineer, but wish to develop my career more on software engineering
+👨🏻‍💻 Working as a freelance web developer for 2 years<br>👨🏻‍🎓 Did my Civil BEng in Univeritry of Britol and Msc in HKUST<br>🔭 Currently building a blockchain with Proof-of-stake consensus mechanism<br>💼 Looking for an internship or a fulltime job in the web3/FinTech industry<br>🌱 I’m currently learning more on Solidity, and just started out on Rust<br>💬 Ask me about my 5-year self-taught journey<br>⚡ Fun fact: I was originally a civil engineer, but wish to develop my career more on software engineering
 
 
 ## 🌐 Socials:
