@@ -10,14 +10,14 @@
 
 ---
 
-# 🛠️ Projects:
-| Repository                                                                                                    | Description                | Technology Used               | Demo Links            |
-| -----------------------------                                                                                 | -------------------------- | ----------------------------- | --------------------- |
-| [Proof of Work Blockchain in Java](https://github.com/lylaw27/blockchain-java)                                | SberDevices                | LLM, GigaChat                 | [Click here](http://13.212.165.255/)            |
-| [Decentralized Exchange with AMM](https://github.com/lylaw27/Uniswap-Clone)                                  | SberDevices                | Search, Information Retrieval | [Click here](https://uniswap-clone-eight-chi.vercel.app/)     |
-| [Crypto Exchange (CLOB)](https://github.com/lylaw27/Crypto-Exchange-Java)                                                                                         | Sber AI Lab                | NLP, MLOps, Mentoring         | [Click here](http://54.254.246.18/)     |
-| [AI-Powered E-Commerce Platform for Interview Preparation](https://github.com/lylaw27/InterviewPrep)           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | [Click here](https://interviewq-psi.vercel.app/)     |
-| [Full Stack Blog Website with custom](https://github.com/lylaw27/pentago-blog)                                | MTS AI Lab                 | NER with Pseudo-Labeling      | [Click here](https://researcherp.com/)     |
+# 🛠️ Top Projects:
+| Repository                                                                                                    | Tech Stack               | Demo Links            |
+| -----------------------------                                                                                | ----------------------------- | --------------------- |
+| [Proof of Work Blockchain in Java](https://github.com/lylaw27/blockchain-java)                                | Java Spring Boot, Next.js                 | [Click here](http://13.212.165.255/)            |
+| [Decentralized Exchange with AMM](https://github.com/lylaw27/Uniswap-Clone)                                 | Next.js, Solidity, OpenZeppelin, HardHat, ethers.js | [Click here](https://uniswap-clone-eight-chi.vercel.app/)     |
+| [Crypto Exchange (CLOB)](https://github.com/lylaw27/Crypto-Exchange-Java)                                  | Java Spring Boot, Next.js, ethers.js         | [Click here](http://54.254.246.18/)     |
+| [AI-Powered E-Commerce Platform for Interview Preparation](https://github.com/lylaw27/InterviewPrep)         | Next.js, PostgresSQL, OpenAI API, Stripe API      | [Click here](https://interviewq-psi.vercel.app/)     |
+| [Full Stack Blog Website with custom](https://github.com/lylaw27/pentago-blog)                                 | Next.js, MongoDB, Cloudinary, MailChimp      | [Click here](https://researcherp.com/)     |
 
 [![](https://visitcount.itsvg.in/api?id=lylaw27&icon=0&color=0)](https://visitcount.itsvg.in)
 
