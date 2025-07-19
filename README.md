@@ -17,9 +17,9 @@
 # 🛠️ Top Projects:
 | Repository                                                                                                    | Tech Stack               | Demo Links            |
 | -----------------------------                                                                                | ----------------------------- | --------------------- |
-| [Proof of Work Blockchain in Java](https://github.com/lylaw27/blockchain-java)                                | Java Spring Boot, Next.js                 | [Click here](http://13.212.170.169/)|
+| [Proof of Work Blockchain in Java](https://github.com/lylaw27/blockchain-java)                                | Java Spring Boot, Next.js                 | [Click here](http://54.151.56.118/)|
 | [Decentralized Exchange with AMM](https://github.com/lylaw27/Uniswap-Clone)                                 | Next.js, Solidity, OpenZeppelin, HardHat, ethers.js | [Click here](https://uniswap-clone-eight-chi.vercel.app/)     |
-| [Crypto Exchange (CLOB)](https://github.com/lylaw27/Crypto-Exchange-Java)                                  | Java Spring Boot, Next.js, ethers.js         | [Click here](http://3.1.204.35/)     |
+| [Crypto Exchange (CLOB)](https://github.com/lylaw27/Crypto-Exchange-Java)                                  | Java Spring Boot, Next.js, ethers.js         | [Click here](http://184.169.149.212/)     |
 | [AI-Powered E-Commerce Platform for Interview Preparation](https://github.com/lylaw27/InterviewPrep)         | Next.js, PostgresSQL, OpenAI API, Stripe API      | [Click here](https://interviewq-psi.vercel.app/)     |
 | [Full Stack Blog Website with custom](https://github.com/lylaw27/pentago-blog)                                 | Next.js, MongoDB, Cloudinary, MailChimp      | [Click here](https://researcherp.com/)     |
 
