@@ -21,7 +21,7 @@
 | [Decentralized Exchange with AMM](https://github.com/lylaw27/Uniswap-Clone)                                 | Next.js, Solidity, OpenZeppelin, HardHat, ethers.js | [Click here](https://uniswap-clone-eight-chi.vercel.app/)     |
 | [Crypto Exchange (CLOB)](https://github.com/lylaw27/Crypto-Exchange-Java)                                  | Java Spring Boot, Next.js, ethers.js         | [Click here](https://cex-frontend-fzro.vercel.app/)     |
 | [AI-Powered E-Commerce Platform for Interview Preparation](https://github.com/lylaw27/InterviewPrep)         | Next.js, PostgresSQL, OpenAI API, Stripe API      | [Click here](https://interviewq-psi.vercel.app/)     |
-| [Full Stack Blog Website with custom](https://github.com/lylaw27/pentago-blog)                                 | Next.js, MongoDB, Cloudinary, MailChimp      | [Click here](https://researcherp.com/)     |
+| [Full Stack Blog Website with Custom CMS](https://github.com/lylaw27/pentago-blog)                                 | Next.js, MongoDB, Cloudinary, MailChimp      | [Click here](https://researcherp.com/)     |
 
 [![](https://visitcount.itsvg.in/api?id=lylaw27&icon=0&color=0)](https://visitcount.itsvg.in)
 
