@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨🏻‍💻 Worked as a freelance full stack web developer for 3 years<br>
-👨🏻‍🎓 Did my Civil BEng in Univeritry of Bristol and MSc in HKUST<br>
+👨🏻‍🎓 Civil BEng in University of Bristol and MSc in HKUST<br>
 💼 Looking for an internship or a fulltime job in the web3/FinTech industry<br>
 🌱 I’m currently learning more on Solidity, and just started out on Rust<br>
 💬 Ask me about my 5-year self-taught journey
